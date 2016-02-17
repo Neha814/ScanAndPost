@@ -75,8 +75,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6936937">
-              <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5022523">
+              <caret line="183" column="59" selection-start-line="183" selection-start-column="59" selection-end-line="183" selection-end-column="59" />
               <folding>
                 <element signature="e#2904#2922#0" expanded="true" />
                 <element signature="e#5848#5874#0" expanded="true" />
@@ -2550,6 +2550,13 @@
       <option name="number" value="Default" />
       <updated>1455688359026</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit&#10;">
+      <created>1455711556641</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1455711556641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2590,6 +2597,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2998,8 +3009,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6936937">
-          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5022523">
+          <caret line="183" column="59" selection-start-line="183" selection-start-column="59" selection-end-line="183" selection-end-column="59" />
           <folding>
             <element signature="e#2904#2922#0" expanded="true" />
             <element signature="e#5848#5874#0" expanded="true" />
