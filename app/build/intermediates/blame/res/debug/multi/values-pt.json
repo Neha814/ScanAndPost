@@ -1,0 +1,2724 @@
+[
+    {
+        "outputFile": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\values-pt\\values-pt.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 119,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 119,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 107,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 107,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 122,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 122,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 105,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 580,
+                        "endColumn": 105,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 106,
+                    "endOffset": 614
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 106,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 619,
+                    "endColumn": 88,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 88,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 100,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 100,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 117,
+                    "endOffset": 922
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 117,
+                        "endOffset": 1096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 927,
+                    "endColumn": 82,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1101,
+                        "endColumn": 82,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 79,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 79,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 86,
+                    "endOffset": 1172
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1264,
+                        "endColumn": 86,
+                        "endOffset": 1346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1177,
+                    "endColumn": 106,
+                    "endOffset": 1279
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1351,
+                        "endColumn": 106,
+                        "endOffset": 1453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1284,
+                    "endColumn": 111,
+                    "endOffset": 1391
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1458,
+                        "endColumn": 111,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1396,
+                    "endColumn": 101,
+                    "endOffset": 1493
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endColumn": 101,
+                        "endOffset": 1667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1498,
+                    "endColumn": 107,
+                    "endOffset": 1601
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1672,
+                        "endColumn": 107,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1606,
+                    "endColumn": 106,
+                    "endOffset": 1708
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1780,
+                        "endColumn": 106,
+                        "endOffset": 1882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1713,
+                    "endColumn": 109,
+                    "endOffset": 1818
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1887,
+                        "endColumn": 109,
+                        "endOffset": 1992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1823,
+                    "endColumn": 124,
+                    "endOffset": 1943
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1997,
+                        "endColumn": 124,
+                        "endOffset": 2117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1948,
+                    "endColumn": 99,
+                    "endOffset": 2043
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2122,
+                        "endColumn": 99,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2048,
+                    "endColumn": 52,
+                    "endOffset": 2096
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 632,
+                        "endColumn": 50,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2101,
+                    "endColumn": 56,
+                    "endOffset": 2153
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 683,
+                        "endColumn": 54,
+                        "endOffset": 735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2158,
+                    "endColumn": 59,
+                    "endOffset": 2213
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 738,
+                        "endColumn": 57,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2218,
+                    "endColumn": 71,
+                    "endOffset": 2285
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 796,
+                        "endColumn": 69,
+                        "endOffset": 863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2290,
+                    "endColumn": 66,
+                    "endOffset": 2352
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 866,
+                        "endColumn": 64,
+                        "endOffset": 928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2357,
+                    "endColumn": 48,
+                    "endOffset": 2401
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 931,
+                        "endColumn": 46,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2406,
+                    "endColumn": 62,
+                    "endOffset": 2464
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 978,
+                        "endColumn": 60,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2469,
+                    "endColumn": 50,
+                    "endOffset": 2515
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1039,
+                        "endColumn": 48,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2520,
+                    "endColumn": 78,
+                    "endOffset": 2594
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1088,
+                        "endColumn": 76,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2599,
+                    "endColumn": 79,
+                    "endOffset": 2674
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1165,
+                        "endColumn": 77,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2679,
+                    "endColumn": 53,
+                    "endOffset": 2728
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1243,
+                        "endColumn": 51,
+                        "endOffset": 1292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2733,
+                    "endColumn": 49,
+                    "endOffset": 2778
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1295,
+                        "endColumn": 47,
+                        "endOffset": 1340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2783,
+                    "endColumn": 54,
+                    "endOffset": 2833
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1343,
+                        "endColumn": 52,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2838,
+                    "endColumn": 65,
+                    "endOffset": 2899
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1396,
+                        "endColumn": 63,
+                        "endOffset": 1457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2904,
+                    "endColumn": 64,
+                    "endOffset": 2964
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1460,
+                        "endColumn": 62,
+                        "endOffset": 1520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2969,
+                    "endColumn": 49,
+                    "endOffset": 3014
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1523,
+                        "endColumn": 47,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3019,
+                    "endColumn": 40,
+                    "endOffset": 3055
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1571,
+                        "endColumn": 38,
+                        "endOffset": 1607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3060,
+                    "endColumn": 61,
+                    "endOffset": 3117
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1610,
+                        "endColumn": 59,
+                        "endOffset": 1667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3122,
+                    "endColumn": 67,
+                    "endOffset": 3185
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1670,
+                        "endColumn": 65,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3190,
+                    "endColumn": 59,
+                    "endOffset": 3245
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1736,
+                        "endColumn": 57,
+                        "endOffset": 1791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3250,
+                    "endColumn": 80,
+                    "endOffset": 3326
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1794,
+                        "endColumn": 78,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3331,
+                    "endColumn": 56,
+                    "endOffset": 3383
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 1873,
+                        "endColumn": 54,
+                        "endOffset": 1925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3388,
+                    "endColumn": 58,
+                    "endOffset": 3442
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 1928,
+                        "endColumn": 56,
+                        "endOffset": 1982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3447,
+                    "endColumn": 70,
+                    "endOffset": 3513
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 1985,
+                        "endColumn": 68,
+                        "endOffset": 2051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3518,
+                    "endColumn": 65,
+                    "endOffset": 3579
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 2054,
+                        "endColumn": 63,
+                        "endOffset": 2115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3584,
+                    "endColumn": 72,
+                    "endOffset": 3652
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 2118,
+                        "endColumn": 70,
+                        "endOffset": 2186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3657,
+                    "endColumn": 57,
+                    "endOffset": 3710
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 2189,
+                        "endColumn": 55,
+                        "endOffset": 2242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3715,
+                    "endColumn": 56,
+                    "endOffset": 3767
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2245,
+                        "endColumn": 54,
+                        "endOffset": 2297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3772,
+                    "endColumn": 49,
+                    "endOffset": 3817
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 2300,
+                        "endColumn": 47,
+                        "endOffset": 2345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3822,
+                    "endColumn": 58,
+                    "endOffset": 3876
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 2348,
+                        "endColumn": 56,
+                        "endOffset": 2402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3881,
+                    "endColumn": 55,
+                    "endOffset": 3932
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 2405,
+                        "endColumn": 53,
+                        "endOffset": 2456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3937,
+                    "endColumn": 61,
+                    "endOffset": 3994
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 2459,
+                        "endColumn": 59,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3999,
+                    "endColumn": 63,
+                    "endOffset": 4058
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 2519,
+                        "endColumn": 61,
+                        "endOffset": 2578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4063,
+                    "endColumn": 69,
+                    "endOffset": 4128
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 2,
+                        "startOffset": 2581,
+                        "endColumn": 67,
+                        "endOffset": 2646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4133,
+                    "endColumn": 61,
+                    "endOffset": 4190
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 2649,
+                        "endColumn": 59,
+                        "endOffset": 2706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4195,
+                    "endColumn": 53,
+                    "endOffset": 4244
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 2,
+                        "startOffset": 2709,
+                        "endColumn": 51,
+                        "endOffset": 2758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4249,
+                    "endColumn": 55,
+                    "endOffset": 4300
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 2761,
+                        "endColumn": 53,
+                        "endOffset": 2812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4305,
+                    "endColumn": 63,
+                    "endOffset": 4364
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 2,
+                        "startOffset": 2815,
+                        "endColumn": 61,
+                        "endOffset": 2874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4369,
+                    "endColumn": 72,
+                    "endOffset": 4437
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 2,
+                        "startOffset": 2877,
+                        "endColumn": 70,
+                        "endOffset": 2945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4442,
+                    "endColumn": 56,
+                    "endOffset": 4494
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 2,
+                        "startOffset": 2948,
+                        "endColumn": 54,
+                        "endOffset": 3000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4499,
+                    "endColumn": 51,
+                    "endOffset": 4546
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 2,
+                        "startOffset": 3003,
+                        "endColumn": 49,
+                        "endOffset": 3050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4551,
+                    "endColumn": 48,
+                    "endOffset": 4595
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 2,
+                        "startOffset": 3053,
+                        "endColumn": 46,
+                        "endOffset": 3097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4600,
+                    "endColumn": 43,
+                    "endOffset": 4639
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 2,
+                        "startOffset": 3100,
+                        "endColumn": 41,
+                        "endOffset": 3139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4644,
+                    "endColumn": 50,
+                    "endOffset": 4690
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 2,
+                        "startOffset": 3142,
+                        "endColumn": 48,
+                        "endOffset": 3188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4695,
+                    "endColumn": 52,
+                    "endOffset": 4743
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 2,
+                        "startOffset": 3191,
+                        "endColumn": 50,
+                        "endOffset": 3239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4748,
+                    "endColumn": 48,
+                    "endOffset": 4792
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 2,
+                        "startOffset": 3242,
+                        "endColumn": 46,
+                        "endOffset": 3286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4797,
+                    "endColumn": 102,
+                    "endOffset": 4895
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 2,
+                        "startOffset": 3289,
+                        "endColumn": 100,
+                        "endOffset": 3387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4900,
+                    "endColumn": 226,
+                    "endOffset": 5122
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 2,
+                        "startOffset": 3390,
+                        "endColumn": 224,
+                        "endOffset": 3612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5127,
+                    "endColumn": 101,
+                    "endOffset": 5224
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 2,
+                        "startOffset": 3615,
+                        "endColumn": 99,
+                        "endOffset": 3712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5229,
+                    "endColumn": 146,
+                    "endOffset": 5371
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 2,
+                        "startOffset": 3715,
+                        "endColumn": 144,
+                        "endOffset": 3857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5376,
+                    "endColumn": 58,
+                    "endOffset": 5430
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 2,
+                        "startOffset": 3860,
+                        "endColumn": 56,
+                        "endOffset": 3914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5435,
+                    "endColumn": 54,
+                    "endOffset": 5485
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 2,
+                        "startOffset": 3917,
+                        "endColumn": 52,
+                        "endOffset": 3967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5490,
+                    "endColumn": 54,
+                    "endOffset": 5540
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 2,
+                        "startOffset": 3970,
+                        "endColumn": 52,
+                        "endOffset": 4020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5545,
+                    "endColumn": 55,
+                    "endOffset": 5596
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 2,
+                        "startOffset": 4023,
+                        "endColumn": 53,
+                        "endOffset": 4074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5601,
+                    "endColumn": 123,
+                    "endOffset": 5720
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 2,
+                        "startOffset": 4077,
+                        "endColumn": 121,
+                        "endOffset": 4196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5725,
+                    "endColumn": 50,
+                    "endOffset": 5771
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 2,
+                        "startOffset": 4199,
+                        "endColumn": 48,
+                        "endOffset": 4245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5776,
+                    "endColumn": 49,
+                    "endOffset": 5821
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 2,
+                        "startOffset": 4248,
+                        "endColumn": 47,
+                        "endOffset": 4293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5826,
+                    "endColumn": 101,
+                    "endOffset": 5923
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 2,
+                        "startOffset": 4296,
+                        "endColumn": 99,
+                        "endOffset": 4393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5928,
+                    "endColumn": 120,
+                    "endOffset": 6044
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 2,
+                        "startOffset": 4396,
+                        "endColumn": 118,
+                        "endOffset": 4512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 6049,
+                    "endColumn": 89,
+                    "endOffset": 6134
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 2,
+                        "startOffset": 4515,
+                        "endColumn": 87,
+                        "endOffset": 4600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 6139,
+                    "endColumn": 210,
+                    "endOffset": 6345
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 2,
+                        "startOffset": 4603,
+                        "endColumn": 208,
+                        "endOffset": 4809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6350,
+                    "endColumn": 144,
+                    "endOffset": 6490
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 2,
+                        "startOffset": 4812,
+                        "endColumn": 142,
+                        "endOffset": 4952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6495,
+                    "endColumn": 78,
+                    "endOffset": 6569
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 2,
+                        "startOffset": 4955,
+                        "endColumn": 76,
+                        "endOffset": 5029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 6574,
+                    "endColumn": 155,
+                    "endOffset": 6725
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 2,
+                        "startOffset": 5032,
+                        "endColumn": 153,
+                        "endOffset": 5183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6730,
+                    "endColumn": 53,
+                    "endOffset": 6779
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 2,
+                        "startOffset": 5186,
+                        "endColumn": 51,
+                        "endOffset": 5235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6784,
+                    "endColumn": 104,
+                    "endOffset": 6884
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 2,
+                        "startOffset": 5238,
+                        "endColumn": 102,
+                        "endOffset": 5338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6889,
+                    "endColumn": 90,
+                    "endOffset": 6975
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 2,
+                        "startOffset": 5341,
+                        "endColumn": 88,
+                        "endOffset": 5427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6980,
+                    "endColumn": 82,
+                    "endOffset": 7058
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 2,
+                        "startOffset": 5430,
+                        "endColumn": 80,
+                        "endOffset": 5508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 7063,
+                    "endColumn": 47,
+                    "endOffset": 7106
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 2,
+                        "startOffset": 5511,
+                        "endColumn": 45,
+                        "endOffset": 5554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 7111,
+                    "endColumn": 74,
+                    "endOffset": 7181
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 2,
+                        "startOffset": 5557,
+                        "endColumn": 72,
+                        "endOffset": 5627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 7186,
+                    "endColumn": 78,
+                    "endOffset": 7260
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 2,
+                        "startOffset": 5630,
+                        "endColumn": 76,
+                        "endOffset": 5704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 7265,
+                    "endColumn": 68,
+                    "endOffset": 7329
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 2,
+                        "startOffset": 5707,
+                        "endColumn": 66,
+                        "endOffset": 5771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 7334,
+                    "endColumn": 145,
+                    "endOffset": 7475
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 2,
+                        "startOffset": 5774,
+                        "endColumn": 143,
+                        "endOffset": 5915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7480,
+                    "endColumn": 110,
+                    "endOffset": 7586
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 2,
+                        "startOffset": 5918,
+                        "endColumn": 108,
+                        "endOffset": 6024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 7591,
+                    "endColumn": 64,
+                    "endOffset": 7651
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 2,
+                        "startOffset": 6027,
+                        "endColumn": 62,
+                        "endOffset": 6087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 7656,
+                    "endColumn": 85,
+                    "endOffset": 7737
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 2,
+                        "startOffset": 6090,
+                        "endColumn": 83,
+                        "endOffset": 6171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 7742,
+                    "endColumn": 99,
+                    "endOffset": 7837
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 2,
+                        "startOffset": 6174,
+                        "endColumn": 97,
+                        "endOffset": 6269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7842,
+                    "endColumn": 106,
+                    "endOffset": 7944
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 2,
+                        "startOffset": 6272,
+                        "endColumn": 104,
+                        "endOffset": 6374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7949,
+                    "endColumn": 82,
+                    "endOffset": 8027
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 2,
+                        "startOffset": 6377,
+                        "endColumn": 80,
+                        "endOffset": 6455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 8032,
+                    "endColumn": 99,
+                    "endOffset": 8127
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 2,
+                        "startOffset": 6458,
+                        "endColumn": 97,
+                        "endOffset": 6553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 8132,
+                    "endColumn": 98,
+                    "endOffset": 8226
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 2,
+                        "startOffset": 6556,
+                        "endColumn": 96,
+                        "endOffset": 6650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 8231,
+                    "endColumn": 75,
+                    "endOffset": 8302
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 2,
+                        "startOffset": 6653,
+                        "endColumn": 73,
+                        "endOffset": 6724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 8307,
+                    "endColumn": 76,
+                    "endOffset": 8379
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 2,
+                        "startOffset": 6727,
+                        "endColumn": 74,
+                        "endOffset": 6799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 8384,
+                    "endColumn": 66,
+                    "endOffset": 8446
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 2,
+                        "startOffset": 6802,
+                        "endColumn": 64,
+                        "endOffset": 6864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 8451,
+                    "endColumn": 191,
+                    "endOffset": 8638
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 2,
+                        "startOffset": 6867,
+                        "endColumn": 189,
+                        "endOffset": 7054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 8643,
+                    "endColumn": 77,
+                    "endOffset": 8716
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 2,
+                        "startOffset": 7057,
+                        "endColumn": 75,
+                        "endOffset": 7130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 8721,
+                    "endColumn": 71,
+                    "endOffset": 8788
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 2,
+                        "startOffset": 7133,
+                        "endColumn": 69,
+                        "endOffset": 7200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8793,
+                    "endColumn": 55,
+                    "endOffset": 8844
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 2,
+                        "startOffset": 7203,
+                        "endColumn": 53,
+                        "endOffset": 7254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8849,
+                    "endColumn": 59,
+                    "endOffset": 8904
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 2,
+                        "startOffset": 7257,
+                        "endColumn": 57,
+                        "endOffset": 7312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 8909,
+                    "endColumn": 128,
+                    "endOffset": 9033
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 2,
+                        "startOffset": 7315,
+                        "endColumn": 126,
+                        "endOffset": 7439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 9038,
+                    "endColumn": 89,
+                    "endOffset": 9123
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 2,
+                        "startOffset": 7442,
+                        "endColumn": 87,
+                        "endOffset": 7527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 9128,
+                    "endColumn": 77,
+                    "endOffset": 9201
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 2,
+                        "startOffset": 7530,
+                        "endColumn": 75,
+                        "endOffset": 7603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 9206,
+                    "endColumn": 107,
+                    "endOffset": 9309
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 2,
+                        "startOffset": 7606,
+                        "endColumn": 105,
+                        "endOffset": 7709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 9314,
+                    "endColumn": 86,
+                    "endOffset": 9396
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 2,
+                        "startOffset": 7712,
+                        "endColumn": 84,
+                        "endOffset": 7794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 9401,
+                    "endColumn": 118,
+                    "endOffset": 9515
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 2,
+                        "startOffset": 7797,
+                        "endColumn": 116,
+                        "endOffset": 7911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 9520,
+                    "endColumn": 126,
+                    "endOffset": 9642
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 2,
+                        "startOffset": 7914,
+                        "endColumn": 124,
+                        "endOffset": 8036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 9647,
+                    "endColumn": 81,
+                    "endOffset": 9724
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 2,
+                        "startOffset": 8039,
+                        "endColumn": 79,
+                        "endOffset": 8116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 9729,
+                    "endColumn": 60,
+                    "endOffset": 9785
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 2,
+                        "startOffset": 8119,
+                        "endColumn": 58,
+                        "endOffset": 8175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 9790,
+                    "endColumn": 75,
+                    "endOffset": 9861
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 2,
+                        "startOffset": 8178,
+                        "endColumn": 73,
+                        "endOffset": 8249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 9866,
+                    "endColumn": 76,
+                    "endOffset": 9938
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 2,
+                        "startOffset": 8252,
+                        "endColumn": 74,
+                        "endOffset": 8324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 9943,
+                    "endColumn": 80,
+                    "endOffset": 10019
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 2,
+                        "startOffset": 8327,
+                        "endColumn": 78,
+                        "endOffset": 8403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 10024,
+                    "endColumn": 74,
+                    "endOffset": 10094
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 2,
+                        "startOffset": 8406,
+                        "endColumn": 72,
+                        "endOffset": 8476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 10099,
+                    "endColumn": 56,
+                    "endOffset": 10151
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 2,
+                        "startOffset": 8479,
+                        "endColumn": 54,
+                        "endOffset": 8531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 10156,
+                    "endColumn": 61,
+                    "endOffset": 10213
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 2,
+                        "startOffset": 8534,
+                        "endColumn": 59,
+                        "endOffset": 8591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 10218,
+                    "endColumn": 62,
+                    "endOffset": 10276
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 2,
+                        "startOffset": 8594,
+                        "endColumn": 60,
+                        "endOffset": 8652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 10281,
+                    "endColumn": 68,
+                    "endOffset": 10345
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 2,
+                        "startOffset": 8655,
+                        "endColumn": 66,
+                        "endOffset": 8719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 10350,
+                    "endColumn": 64,
+                    "endOffset": 10410
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 2,
+                        "startOffset": 8722,
+                        "endColumn": 62,
+                        "endOffset": 8782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 10415,
+                    "endColumn": 53,
+                    "endOffset": 10464
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 2,
+                        "startOffset": 8785,
+                        "endColumn": 51,
+                        "endOffset": 8834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 10469,
+                    "endColumn": 72,
+                    "endOffset": 10537
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 2,
+                        "startOffset": 8837,
+                        "endColumn": 70,
+                        "endOffset": 8905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 10542,
+                    "endColumn": 57,
+                    "endOffset": 10595
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 2,
+                        "startOffset": 8908,
+                        "endColumn": 55,
+                        "endOffset": 8961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 10600,
+                    "endColumn": 69,
+                    "endOffset": 10665
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 2,
+                        "startOffset": 8964,
+                        "endColumn": 67,
+                        "endOffset": 9029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 10670,
+                    "endColumn": 100,
+                    "endOffset": 10766
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-pt\\values-pt.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2222,
+                        "endColumn": 100,
+                        "endOffset": 2318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 10771,
+                    "endColumn": 66,
+                    "endOffset": 10833
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 2,
+                        "startOffset": 9032,
+                        "endColumn": 64,
+                        "endOffset": 9094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 10838,
+                    "endColumn": 56,
+                    "endOffset": 10890
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 2,
+                        "startOffset": 9097,
+                        "endColumn": 54,
+                        "endOffset": 9149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 10895,
+                    "endColumn": 60,
+                    "endOffset": 10951
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 2,
+                        "startOffset": 9152,
+                        "endColumn": 58,
+                        "endOffset": 9208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 10956,
+                    "endColumn": 69,
+                    "endOffset": 11021
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 2,
+                        "startOffset": 9211,
+                        "endColumn": 67,
+                        "endOffset": 9276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 11026,
+                    "endColumn": 49,
+                    "endOffset": 11071
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 2,
+                        "startOffset": 9279,
+                        "endColumn": 47,
+                        "endOffset": 9324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 11076,
+                    "endColumn": 65,
+                    "endOffset": 11137
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 2,
+                        "startOffset": 9327,
+                        "endColumn": 63,
+                        "endOffset": 9388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 11142,
+                    "endColumn": 67,
+                    "endOffset": 11205
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 2,
+                        "startOffset": 9391,
+                        "endColumn": 65,
+                        "endOffset": 9454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 11210,
+                    "endColumn": 56,
+                    "endOffset": 11262
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 2,
+                        "startOffset": 9457,
+                        "endColumn": 54,
+                        "endOffset": 9509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 11267,
+                    "endColumn": 67,
+                    "endOffset": 11330
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 2,
+                        "startOffset": 9512,
+                        "endColumn": 65,
+                        "endOffset": 9575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 11335,
+                    "endColumn": 70,
+                    "endOffset": 11401
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 2,
+                        "startOffset": 9578,
+                        "endColumn": 68,
+                        "endOffset": 9644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 11406,
+                    "endColumn": 48,
+                    "endOffset": 11450
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 2,
+                        "startOffset": 9647,
+                        "endColumn": 46,
+                        "endOffset": 9691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 11455,
+                    "endColumn": 68,
+                    "endOffset": 11519
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 2,
+                        "startOffset": 9694,
+                        "endColumn": 66,
+                        "endOffset": 9758
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep_sound.mp3",
+        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\raw\\beep_sound.mp3"
+    }
+]
