@@ -6,9 +6,9 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 105,
-                    "endOffset": 156
+                    "endOffset": 206
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -25,9 +25,9 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 161,
+                    "startOffset": 211,
                     "endColumn": 107,
-                    "endOffset": 264
+                    "endOffset": 314
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -44,9 +44,9 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 269,
+                    "startOffset": 319,
                     "endColumn": 122,
-                    "endOffset": 387
+                    "endOffset": 437
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -63,9 +63,9 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 392,
+                    "startOffset": 442,
                     "endColumn": 102,
-                    "endOffset": 490
+                    "endOffset": 540
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -82,9 +82,9 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 495,
+                    "startOffset": 545,
                     "endColumn": 110,
-                    "endOffset": 601
+                    "endOffset": 651
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -101,9 +101,9 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 606,
+                    "startOffset": 656,
                     "endColumn": 84,
-                    "endOffset": 686
+                    "endOffset": 736
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -120,9 +120,9 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 691,
+                    "startOffset": 741,
                     "endColumn": 101,
-                    "endOffset": 788
+                    "endOffset": 838
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -139,9 +139,9 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 793,
+                    "startOffset": 843,
                     "endColumn": 112,
-                    "endOffset": 901
+                    "endOffset": 951
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -158,9 +158,9 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 906,
+                    "startOffset": 956,
                     "endColumn": 75,
-                    "endOffset": 977
+                    "endOffset": 1027
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -177,9 +177,9 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 982,
+                    "startOffset": 1032,
                     "endColumn": 75,
-                    "endOffset": 1053
+                    "endOffset": 1103
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -196,9 +196,9 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1058,
+                    "startOffset": 1108,
                     "endColumn": 79,
-                    "endOffset": 1133
+                    "endOffset": 1183
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -215,9 +215,9 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1138,
+                    "startOffset": 1188,
                     "endColumn": 105,
-                    "endOffset": 1239
+                    "endOffset": 1289
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -234,9 +234,9 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1244,
+                    "startOffset": 1294,
                     "endColumn": 99,
-                    "endOffset": 1339
+                    "endOffset": 1389
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -253,9 +253,9 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1344,
+                    "startOffset": 1394,
                     "endColumn": 95,
-                    "endOffset": 1435
+                    "endOffset": 1485
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -272,9 +272,9 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1440,
+                    "startOffset": 1490,
                     "endColumn": 104,
-                    "endOffset": 1540
+                    "endOffset": 1590
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -291,9 +291,9 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1545,
+                    "startOffset": 1595,
                     "endColumn": 101,
-                    "endOffset": 1642
+                    "endOffset": 1692
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -310,9 +310,9 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1647,
+                    "startOffset": 1697,
                     "endColumn": 101,
-                    "endOffset": 1744
+                    "endOffset": 1794
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -329,9 +329,9 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1749,
+                    "startOffset": 1799,
                     "endColumn": 116,
-                    "endOffset": 1861
+                    "endOffset": 1911
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -348,9 +348,9 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1866,
+                    "startOffset": 1916,
                     "endColumn": 101,
-                    "endOffset": 1963
+                    "endOffset": 2013
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -367,9 +367,9 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1968,
+                    "startOffset": 2018,
                     "endColumn": 52,
-                    "endOffset": 2016
+                    "endOffset": 2066
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -386,9 +386,9 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2021,
+                    "startOffset": 2071,
                     "endColumn": 57,
-                    "endOffset": 2074
+                    "endOffset": 2124
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -405,9 +405,9 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2079,
+                    "startOffset": 2129,
                     "endColumn": 58,
-                    "endOffset": 2133
+                    "endOffset": 2183
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -424,9 +424,9 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2138,
+                    "startOffset": 2188,
                     "endColumn": 69,
-                    "endOffset": 2203
+                    "endOffset": 2253
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -443,9 +443,9 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2208,
+                    "startOffset": 2258,
                     "endColumn": 64,
-                    "endOffset": 2268
+                    "endOffset": 2318
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -462,9 +462,9 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2273,
+                    "startOffset": 2323,
                     "endColumn": 48,
-                    "endOffset": 2317
+                    "endOffset": 2367
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -481,9 +481,9 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2322,
+                    "startOffset": 2372,
                     "endColumn": 57,
-                    "endOffset": 2375
+                    "endOffset": 2425
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -500,9 +500,9 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2380,
+                    "startOffset": 2430,
                     "endColumn": 48,
-                    "endOffset": 2424
+                    "endOffset": 2474
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -519,9 +519,9 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2429,
+                    "startOffset": 2479,
                     "endColumn": 70,
-                    "endOffset": 2495
+                    "endOffset": 2545
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -538,9 +538,9 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2500,
+                    "startOffset": 2550,
                     "endColumn": 73,
-                    "endOffset": 2569
+                    "endOffset": 2619
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -557,9 +557,9 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2574,
+                    "startOffset": 2624,
                     "endColumn": 51,
-                    "endOffset": 2621
+                    "endOffset": 2671
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -576,9 +576,9 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2626,
+                    "startOffset": 2676,
                     "endColumn": 44,
-                    "endOffset": 2666
+                    "endOffset": 2716
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -595,9 +595,9 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2671,
+                    "startOffset": 2721,
                     "endColumn": 53,
-                    "endOffset": 2720
+                    "endOffset": 2770
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -614,9 +614,9 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2725,
+                    "startOffset": 2775,
                     "endColumn": 69,
-                    "endOffset": 2790
+                    "endOffset": 2840
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -633,9 +633,9 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2795,
+                    "startOffset": 2845,
                     "endColumn": 64,
-                    "endOffset": 2855
+                    "endOffset": 2905
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -652,9 +652,9 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2860,
+                    "startOffset": 2910,
                     "endColumn": 49,
-                    "endOffset": 2905
+                    "endOffset": 2955
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -671,9 +671,9 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2910,
+                    "startOffset": 2960,
                     "endColumn": 40,
-                    "endOffset": 2946
+                    "endOffset": 2996
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -690,9 +690,9 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2951,
+                    "startOffset": 3001,
                     "endColumn": 64,
-                    "endOffset": 3011
+                    "endOffset": 3061
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -709,9 +709,9 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3016,
+                    "startOffset": 3066,
                     "endColumn": 64,
-                    "endOffset": 3076
+                    "endOffset": 3126
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -728,9 +728,9 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3081,
+                    "startOffset": 3131,
                     "endColumn": 60,
-                    "endOffset": 3137
+                    "endOffset": 3187
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -747,9 +747,9 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 3142,
+                    "startOffset": 3192,
                     "endColumn": 71,
-                    "endOffset": 3209
+                    "endOffset": 3259
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -766,9 +766,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3214,
+                    "startOffset": 3264,
                     "endColumn": 56,
-                    "endOffset": 3266
+                    "endOffset": 3316
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -785,9 +785,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3271,
+                    "startOffset": 3321,
                     "endColumn": 58,
-                    "endOffset": 3325
+                    "endOffset": 3375
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -804,9 +804,9 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3330,
+                    "startOffset": 3380,
                     "endColumn": 64,
-                    "endOffset": 3390
+                    "endOffset": 3440
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -823,9 +823,9 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 3395,
+                    "startOffset": 3445,
                     "endColumn": 60,
-                    "endOffset": 3451
+                    "endOffset": 3501
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -842,9 +842,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3456,
+                    "startOffset": 3506,
                     "endColumn": 60,
-                    "endOffset": 3512
+                    "endOffset": 3562
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -861,9 +861,9 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 3517,
+                    "startOffset": 3567,
                     "endColumn": 56,
-                    "endOffset": 3569
+                    "endOffset": 3619
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -880,9 +880,9 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3574,
+                    "startOffset": 3624,
                     "endColumn": 54,
-                    "endOffset": 3624
+                    "endOffset": 3674
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -899,9 +899,9 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 3629,
+                    "startOffset": 3679,
                     "endColumn": 49,
-                    "endOffset": 3674
+                    "endOffset": 3724
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -918,9 +918,9 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3679,
+                    "startOffset": 3729,
                     "endColumn": 57,
-                    "endOffset": 3732
+                    "endOffset": 3782
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -937,9 +937,9 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3737,
+                    "startOffset": 3787,
                     "endColumn": 55,
-                    "endOffset": 3788
+                    "endOffset": 3838
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -956,9 +956,560 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 3793,
+                    "startOffset": 3843,
+                    "endColumn": 269,
+                    "endOffset": 4108
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3490,
+                        "endColumn": 273,
+                        "endOffset": 3759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4113,
+                    "endColumn": 129,
+                    "endOffset": 4238
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1316,
+                        "endColumn": 129,
+                        "endOffset": 1441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4243,
+                    "endColumn": 188,
+                    "endOffset": 4427
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1123,
+                        "endColumn": 192,
+                        "endOffset": 1311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4432,
+                    "endColumn": 128,
+                    "endOffset": 4556
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 128,
+                        "endOffset": 1118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4561,
+                    "endColumn": 127,
+                    "endOffset": 4684
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 127,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4689,
+                    "endColumn": 210,
+                    "endOffset": 4895
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 214,
+                        "endOffset": 641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4900,
+                    "endColumn": 215,
+                    "endOffset": 5111
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 646,
+                        "endColumn": 219,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5116,
+                    "endColumn": 126,
+                    "endOffset": 5238
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 126,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5243,
+                    "endColumn": 178,
+                    "endOffset": 5417
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2733,
+                        "endColumn": 178,
+                        "endOffset": 2907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5422,
+                    "endColumn": 119,
+                    "endOffset": 5537
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2613,
+                        "endColumn": 119,
+                        "endOffset": 2728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5542,
+                    "endColumn": 183,
+                    "endOffset": 5721
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2429,
+                        "endColumn": 183,
+                        "endOffset": 2608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5726,
+                    "endColumn": 117,
+                    "endOffset": 5839
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2311,
+                        "endColumn": 117,
+                        "endOffset": 2424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5844,
+                    "endColumn": 133,
+                    "endOffset": 5973
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 133,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5978,
+                    "endColumn": 168,
+                    "endOffset": 6142
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4204,
+                        "endColumn": 168,
+                        "endOffset": 4368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6147,
+                    "endColumn": 127,
+                    "endOffset": 6270
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4076,
+                        "endColumn": 127,
+                        "endOffset": 4199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6275,
+                    "endColumn": 177,
+                    "endOffset": 6448
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3898,
+                        "endColumn": 177,
+                        "endOffset": 4071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6453,
+                    "endColumn": 133,
+                    "endOffset": 6582
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3764,
+                        "endColumn": 133,
+                        "endOffset": 3893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6587,
+                    "endColumn": 219,
+                    "endOffset": 6802
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-sv\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 223,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6807,
+                    "endColumn": 244,
+                    "endOffset": 7047
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3036,
+                        "endColumn": 248,
+                        "endOffset": 3280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7052,
+                    "endColumn": 123,
+                    "endOffset": 7171
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2912,
+                        "endColumn": 123,
+                        "endOffset": 3031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7176,
+                    "endColumn": 109,
+                    "endOffset": 7281
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3285,
+                        "endColumn": 109,
+                        "endOffset": 3390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7286,
+                    "endColumn": 194,
+                    "endOffset": 7476
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1576,
+                        "endColumn": 198,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7481,
+                    "endColumn": 129,
+                    "endOffset": 7606
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1446,
+                        "endColumn": 129,
+                        "endOffset": 1571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7611,
+                    "endColumn": 212,
+                    "endOffset": 7819
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 216,
+                        "endOffset": 2306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7824,
+                    "endColumn": 132,
+                    "endOffset": 7952
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1961,
+                        "endColumn": 132,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7957,
+                    "endColumn": 185,
+                    "endOffset": 8138
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 185,
+                        "endOffset": 1956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8143,
+                    "endColumn": 94,
+                    "endOffset": 8233
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3395,
+                        "endColumn": 94,
+                        "endOffset": 3485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8238,
+                    "endColumn": 92,
+                    "endOffset": 8326
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4373,
+                        "endColumn": 92,
+                        "endOffset": 4461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8331,
+                    "endColumn": 108,
+                    "endOffset": 8435
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sv\\base_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4466,
+                        "endColumn": 108,
+                        "endOffset": 4570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8440,
                     "endColumn": 56,
-                    "endOffset": 3845
+                    "endOffset": 8492
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -973,11 +1524,11 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 3850,
+                    "startOffset": 8497,
                     "endColumn": 54,
-                    "endOffset": 3900
+                    "endOffset": 8547
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -992,11 +1543,11 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 3905,
+                    "startOffset": 8552,
                     "endColumn": 69,
-                    "endOffset": 3970
+                    "endOffset": 8617
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1011,11 +1562,11 @@
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 3975,
+                    "startOffset": 8622,
                     "endColumn": 56,
-                    "endOffset": 4027
+                    "endOffset": 8674
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1030,11 +1581,11 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 4032,
+                    "startOffset": 8679,
                     "endColumn": 50,
-                    "endOffset": 4078
+                    "endOffset": 8725
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1049,11 +1600,11 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 4083,
+                    "startOffset": 8730,
                     "endColumn": 50,
-                    "endOffset": 4129
+                    "endOffset": 8776
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1068,11 +1619,11 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 4134,
+                    "startOffset": 8781,
                     "endColumn": 61,
-                    "endOffset": 4191
+                    "endOffset": 8838
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1087,11 +1638,11 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 4196,
+                    "startOffset": 8843,
                     "endColumn": 75,
-                    "endOffset": 4267
+                    "endOffset": 8914
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1106,11 +1657,11 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 4272,
+                    "startOffset": 8919,
                     "endColumn": 56,
-                    "endOffset": 4324
+                    "endOffset": 8971
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1125,11 +1676,11 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 4329,
+                    "startOffset": 8976,
                     "endColumn": 50,
-                    "endOffset": 4375
+                    "endOffset": 9022
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1144,11 +1695,11 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 4380,
+                    "startOffset": 9027,
                     "endColumn": 41,
-                    "endOffset": 4417
+                    "endOffset": 9064
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1163,11 +1714,11 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 4422,
+                    "startOffset": 9069,
                     "endColumn": 43,
-                    "endOffset": 4461
+                    "endOffset": 9108
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1182,11 +1733,11 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 4466,
+                    "startOffset": 9113,
                     "endColumn": 49,
-                    "endOffset": 4511
+                    "endOffset": 9158
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1201,11 +1752,11 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 4516,
+                    "startOffset": 9163,
                     "endColumn": 55,
-                    "endOffset": 4567
+                    "endOffset": 9214
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1220,11 +1771,11 @@
             },
             {
                 "to": {
-                    "startLine": 66,
+                    "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 4572,
+                    "startOffset": 9219,
                     "endColumn": 43,
-                    "endOffset": 4611
+                    "endOffset": 9258
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1239,11 +1790,220 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 4616,
+                    "startOffset": 9263,
+                    "endColumn": 105,
+                    "endOffset": 9364
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 105,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9369,
+                    "endColumn": 114,
+                    "endOffset": 9479
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 114,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 9484,
+                    "endColumn": 104,
+                    "endOffset": 9584
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 104,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 9589,
+                    "endColumn": 105,
+                    "endOffset": 9690
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 105,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 9695,
+                    "endColumn": 129,
+                    "endOffset": 9820
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 129,
+                        "endOffset": 835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 9825,
+                    "endColumn": 95,
+                    "endOffset": 9916
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 840,
+                        "endColumn": 95,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 9921,
+                    "endColumn": 98,
+                    "endOffset": 10015
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 98,
+                        "endOffset": 1030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 10020,
+                    "endColumn": 134,
+                    "endOffset": 10150
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1035,
+                        "endColumn": 134,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 10155,
+                    "endColumn": 100,
+                    "endOffset": 10251
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 100,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 10256,
+                    "endColumn": 85,
+                    "endOffset": 10337
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 85,
+                        "endOffset": 1352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 10342,
+                    "endColumn": 93,
+                    "endOffset": 10431
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1357,
+                        "endColumn": 93,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 10436,
                     "endColumn": 91,
-                    "endOffset": 4703
+                    "endOffset": 10523
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1258,11 +2018,11 @@
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 4708,
+                    "startOffset": 10528,
                     "endColumn": 196,
-                    "endOffset": 4900
+                    "endOffset": 10720
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1277,11 +2037,11 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 4905,
+                    "startOffset": 10725,
                     "endColumn": 89,
-                    "endOffset": 4990
+                    "endOffset": 10810
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1296,11 +2056,11 @@
             },
             {
                 "to": {
-                    "startLine": 70,
+                    "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 4995,
+                    "startOffset": 10815,
                     "endColumn": 117,
-                    "endOffset": 5108
+                    "endOffset": 10928
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1315,11 +2075,11 @@
             },
             {
                 "to": {
-                    "startLine": 71,
+                    "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 5113,
+                    "startOffset": 10933,
                     "endColumn": 57,
-                    "endOffset": 5166
+                    "endOffset": 10986
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1334,11 +2094,11 @@
             },
             {
                 "to": {
-                    "startLine": 72,
+                    "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 5171,
+                    "startOffset": 10991,
                     "endColumn": 53,
-                    "endOffset": 5220
+                    "endOffset": 11040
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1353,11 +2113,11 @@
             },
             {
                 "to": {
-                    "startLine": 73,
+                    "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 5225,
+                    "startOffset": 11045,
                     "endColumn": 53,
-                    "endOffset": 5274
+                    "endOffset": 11094
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1372,11 +2132,11 @@
             },
             {
                 "to": {
-                    "startLine": 74,
+                    "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 5279,
+                    "startOffset": 11099,
                     "endColumn": 55,
-                    "endOffset": 5330
+                    "endOffset": 11150
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1391,11 +2151,11 @@
             },
             {
                 "to": {
-                    "startLine": 75,
+                    "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 5335,
+                    "startOffset": 11155,
                     "endColumn": 107,
-                    "endOffset": 5438
+                    "endOffset": 11258
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1410,11 +2170,11 @@
             },
             {
                 "to": {
-                    "startLine": 76,
+                    "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 5443,
+                    "startOffset": 11263,
                     "endColumn": 48,
-                    "endOffset": 5487
+                    "endOffset": 11307
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1429,11 +2189,11 @@
             },
             {
                 "to": {
-                    "startLine": 77,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 5492,
+                    "startOffset": 11312,
                     "endColumn": 48,
-                    "endOffset": 5536
+                    "endOffset": 11356
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1448,11 +2208,11 @@
             },
             {
                 "to": {
-                    "startLine": 78,
+                    "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 5541,
+                    "startOffset": 11361,
                     "endColumn": 105,
-                    "endOffset": 5642
+                    "endOffset": 11462
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1467,11 +2227,11 @@
             },
             {
                 "to": {
-                    "startLine": 79,
+                    "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 5647,
+                    "startOffset": 11467,
                     "endColumn": 111,
-                    "endOffset": 5754
+                    "endOffset": 11574
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1486,11 +2246,11 @@
             },
             {
                 "to": {
-                    "startLine": 80,
+                    "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 5759,
+                    "startOffset": 11579,
                     "endColumn": 89,
-                    "endOffset": 5844
+                    "endOffset": 11664
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1505,11 +2265,11 @@
             },
             {
                 "to": {
-                    "startLine": 81,
+                    "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 5849,
+                    "startOffset": 11669,
                     "endColumn": 176,
-                    "endOffset": 6021
+                    "endOffset": 11841
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1524,11 +2284,11 @@
             },
             {
                 "to": {
-                    "startLine": 82,
+                    "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 6026,
+                    "startOffset": 11846,
                     "endColumn": 141,
-                    "endOffset": 6163
+                    "endOffset": 11983
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1543,11 +2303,11 @@
             },
             {
                 "to": {
-                    "startLine": 83,
+                    "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 6168,
+                    "startOffset": 11988,
                     "endColumn": 78,
-                    "endOffset": 6242
+                    "endOffset": 12062
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1562,11 +2322,11 @@
             },
             {
                 "to": {
-                    "startLine": 84,
+                    "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 6247,
+                    "startOffset": 12067,
                     "endColumn": 143,
-                    "endOffset": 6386
+                    "endOffset": 12206
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1581,11 +2341,11 @@
             },
             {
                 "to": {
-                    "startLine": 85,
+                    "startLine": 125,
                     "startColumn": 4,
-                    "startOffset": 6391,
+                    "startOffset": 12211,
                     "endColumn": 51,
-                    "endOffset": 6438
+                    "endOffset": 12258
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1600,11 +2360,11 @@
             },
             {
                 "to": {
-                    "startLine": 86,
+                    "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 6443,
+                    "startOffset": 12263,
                     "endColumn": 89,
-                    "endOffset": 6528
+                    "endOffset": 12348
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1619,11 +2379,11 @@
             },
             {
                 "to": {
-                    "startLine": 87,
+                    "startLine": 127,
                     "startColumn": 4,
-                    "startOffset": 6533,
+                    "startOffset": 12353,
                     "endColumn": 79,
-                    "endOffset": 6608
+                    "endOffset": 12428
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1638,11 +2398,11 @@
             },
             {
                 "to": {
-                    "startLine": 88,
+                    "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 6613,
+                    "startOffset": 12433,
                     "endColumn": 72,
-                    "endOffset": 6681
+                    "endOffset": 12501
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1657,11 +2417,11 @@
             },
             {
                 "to": {
-                    "startLine": 89,
+                    "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 6686,
+                    "startOffset": 12506,
                     "endColumn": 45,
-                    "endOffset": 6727
+                    "endOffset": 12547
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1676,11 +2436,11 @@
             },
             {
                 "to": {
-                    "startLine": 90,
+                    "startLine": 130,
                     "startColumn": 4,
-                    "startOffset": 6732,
+                    "startOffset": 12552,
                     "endColumn": 66,
-                    "endOffset": 6794
+                    "endOffset": 12614
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1695,11 +2455,11 @@
             },
             {
                 "to": {
-                    "startLine": 91,
+                    "startLine": 131,
                     "startColumn": 4,
-                    "startOffset": 6799,
+                    "startOffset": 12619,
                     "endColumn": 74,
-                    "endOffset": 6869
+                    "endOffset": 12689
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1714,11 +2474,11 @@
             },
             {
                 "to": {
-                    "startLine": 92,
+                    "startLine": 132,
                     "startColumn": 4,
-                    "startOffset": 6874,
+                    "startOffset": 12694,
                     "endColumn": 59,
-                    "endOffset": 6929
+                    "endOffset": 12749
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1733,11 +2493,11 @@
             },
             {
                 "to": {
-                    "startLine": 93,
+                    "startLine": 133,
                     "startColumn": 4,
-                    "startOffset": 6934,
+                    "startOffset": 12754,
                     "endColumn": 142,
-                    "endOffset": 7072
+                    "endOffset": 12892
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1752,11 +2512,11 @@
             },
             {
                 "to": {
-                    "startLine": 94,
+                    "startLine": 134,
                     "startColumn": 4,
-                    "startOffset": 7077,
+                    "startOffset": 12897,
                     "endColumn": 97,
-                    "endOffset": 7170
+                    "endOffset": 12990
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1771,11 +2531,11 @@
             },
             {
                 "to": {
-                    "startLine": 95,
+                    "startLine": 135,
                     "startColumn": 4,
-                    "startOffset": 7175,
+                    "startOffset": 12995,
                     "endColumn": 63,
-                    "endOffset": 7234
+                    "endOffset": 13054
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1790,11 +2550,11 @@
             },
             {
                 "to": {
-                    "startLine": 96,
+                    "startLine": 136,
                     "startColumn": 4,
-                    "startOffset": 7239,
+                    "startOffset": 13059,
                     "endColumn": 81,
-                    "endOffset": 7316
+                    "endOffset": 13136
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1809,11 +2569,49 @@
             },
             {
                 "to": {
-                    "startLine": 97,
+                    "startLine": 137,
                     "startColumn": 4,
-                    "startOffset": 7321,
+                    "startOffset": 13141,
+                    "endColumn": 103,
+                    "endOffset": 13240
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-sv\\location_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 103,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 13245,
+                    "endColumn": 93,
+                    "endOffset": 13334
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-sv\\location_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 93,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 13339,
                     "endColumn": 84,
-                    "endOffset": 7401
+                    "endOffset": 13419
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1828,11 +2626,11 @@
             },
             {
                 "to": {
-                    "startLine": 98,
+                    "startLine": 140,
                     "startColumn": 4,
-                    "startOffset": 7406,
+                    "startOffset": 13424,
                     "endColumn": 106,
-                    "endOffset": 7508
+                    "endOffset": 13526
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1847,11 +2645,11 @@
             },
             {
                 "to": {
-                    "startLine": 99,
+                    "startLine": 141,
                     "startColumn": 4,
-                    "startOffset": 7513,
+                    "startOffset": 13531,
                     "endColumn": 75,
-                    "endOffset": 7584
+                    "endOffset": 13602
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1866,11 +2664,11 @@
             },
             {
                 "to": {
-                    "startLine": 100,
+                    "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 7589,
+                    "startOffset": 13607,
                     "endColumn": 88,
-                    "endOffset": 7673
+                    "endOffset": 13691
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1885,11 +2683,11 @@
             },
             {
                 "to": {
-                    "startLine": 101,
+                    "startLine": 143,
                     "startColumn": 4,
-                    "startOffset": 7678,
+                    "startOffset": 13696,
                     "endColumn": 84,
-                    "endOffset": 7758
+                    "endOffset": 13776
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1904,11 +2702,11 @@
             },
             {
                 "to": {
-                    "startLine": 102,
+                    "startLine": 144,
                     "startColumn": 4,
-                    "startOffset": 7763,
+                    "startOffset": 13781,
                     "endColumn": 67,
-                    "endOffset": 7826
+                    "endOffset": 13844
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1923,11 +2721,11 @@
             },
             {
                 "to": {
-                    "startLine": 103,
+                    "startLine": 145,
                     "startColumn": 4,
-                    "startOffset": 7831,
+                    "startOffset": 13849,
                     "endColumn": 76,
-                    "endOffset": 7903
+                    "endOffset": 13921
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1942,11 +2740,11 @@
             },
             {
                 "to": {
-                    "startLine": 104,
+                    "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 7908,
+                    "startOffset": 13926,
                     "endColumn": 64,
-                    "endOffset": 7968
+                    "endOffset": 13986
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1961,11 +2759,11 @@
             },
             {
                 "to": {
-                    "startLine": 105,
+                    "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 7973,
+                    "startOffset": 13991,
                     "endColumn": 131,
-                    "endOffset": 8100
+                    "endOffset": 14118
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1980,11 +2778,11 @@
             },
             {
                 "to": {
-                    "startLine": 106,
+                    "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 8105,
+                    "startOffset": 14123,
                     "endColumn": 72,
-                    "endOffset": 8173
+                    "endOffset": 14191
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -1999,11 +2797,11 @@
             },
             {
                 "to": {
-                    "startLine": 107,
+                    "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 8178,
+                    "startOffset": 14196,
                     "endColumn": 81,
-                    "endOffset": 8255
+                    "endOffset": 14273
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2018,11 +2816,11 @@
             },
             {
                 "to": {
-                    "startLine": 108,
+                    "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 8260,
+                    "startOffset": 14278,
                     "endColumn": 58,
-                    "endOffset": 8314
+                    "endOffset": 14332
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2037,11 +2835,11 @@
             },
             {
                 "to": {
-                    "startLine": 109,
+                    "startLine": 151,
                     "startColumn": 4,
-                    "startOffset": 8319,
+                    "startOffset": 14337,
                     "endColumn": 59,
-                    "endOffset": 8374
+                    "endOffset": 14392
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2056,11 +2854,11 @@
             },
             {
                 "to": {
-                    "startLine": 110,
+                    "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 8379,
+                    "startOffset": 14397,
                     "endColumn": 120,
-                    "endOffset": 8495
+                    "endOffset": 14513
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2075,11 +2873,11 @@
             },
             {
                 "to": {
-                    "startLine": 111,
+                    "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 8500,
+                    "startOffset": 14518,
                     "endColumn": 85,
-                    "endOffset": 8581
+                    "endOffset": 14599
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2094,11 +2892,11 @@
             },
             {
                 "to": {
-                    "startLine": 112,
+                    "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 8586,
+                    "startOffset": 14604,
                     "endColumn": 74,
-                    "endOffset": 8656
+                    "endOffset": 14674
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2113,11 +2911,11 @@
             },
             {
                 "to": {
-                    "startLine": 113,
+                    "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 8661,
+                    "startOffset": 14679,
                     "endColumn": 102,
-                    "endOffset": 8759
+                    "endOffset": 14777
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2132,11 +2930,11 @@
             },
             {
                 "to": {
-                    "startLine": 114,
+                    "startLine": 156,
                     "startColumn": 4,
-                    "startOffset": 8764,
+                    "startOffset": 14782,
                     "endColumn": 82,
-                    "endOffset": 8842
+                    "endOffset": 14860
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2151,11 +2949,11 @@
             },
             {
                 "to": {
-                    "startLine": 115,
+                    "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 8847,
+                    "startOffset": 14865,
                     "endColumn": 99,
-                    "endOffset": 8942
+                    "endOffset": 14960
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2170,11 +2968,11 @@
             },
             {
                 "to": {
-                    "startLine": 116,
+                    "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 8947,
+                    "startOffset": 14965,
                     "endColumn": 117,
-                    "endOffset": 9060
+                    "endOffset": 15078
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2189,11 +2987,11 @@
             },
             {
                 "to": {
-                    "startLine": 117,
+                    "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 9065,
+                    "startOffset": 15083,
                     "endColumn": 73,
-                    "endOffset": 9134
+                    "endOffset": 15152
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2208,11 +3006,11 @@
             },
             {
                 "to": {
-                    "startLine": 118,
+                    "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 9139,
+                    "startOffset": 15157,
                     "endColumn": 61,
-                    "endOffset": 9196
+                    "endOffset": 15214
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2227,11 +3025,11 @@
             },
             {
                 "to": {
-                    "startLine": 119,
+                    "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 9201,
+                    "startOffset": 15219,
                     "endColumn": 74,
-                    "endOffset": 9271
+                    "endOffset": 15289
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2246,11 +3044,11 @@
             },
             {
                 "to": {
-                    "startLine": 120,
+                    "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 9276,
+                    "startOffset": 15294,
                     "endColumn": 64,
-                    "endOffset": 9336
+                    "endOffset": 15354
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2265,11 +3063,11 @@
             },
             {
                 "to": {
-                    "startLine": 121,
+                    "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 9341,
+                    "startOffset": 15359,
                     "endColumn": 68,
-                    "endOffset": 9405
+                    "endOffset": 15423
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2284,11 +3082,11 @@
             },
             {
                 "to": {
-                    "startLine": 122,
+                    "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 9410,
+                    "startOffset": 15428,
                     "endColumn": 70,
-                    "endOffset": 9476
+                    "endOffset": 15494
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2303,11 +3101,11 @@
             },
             {
                 "to": {
-                    "startLine": 123,
+                    "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 9481,
+                    "startOffset": 15499,
                     "endColumn": 51,
-                    "endOffset": 9528
+                    "endOffset": 15546
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2322,11 +3120,11 @@
             },
             {
                 "to": {
-                    "startLine": 124,
+                    "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 9533,
+                    "startOffset": 15551,
                     "endColumn": 58,
-                    "endOffset": 9587
+                    "endOffset": 15605
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2341,11 +3139,11 @@
             },
             {
                 "to": {
-                    "startLine": 125,
+                    "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 9592,
+                    "startOffset": 15610,
                     "endColumn": 56,
-                    "endOffset": 9644
+                    "endOffset": 15662
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2360,11 +3158,11 @@
             },
             {
                 "to": {
-                    "startLine": 126,
+                    "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 9649,
+                    "startOffset": 15667,
                     "endColumn": 60,
-                    "endOffset": 9705
+                    "endOffset": 15723
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2379,11 +3177,11 @@
             },
             {
                 "to": {
-                    "startLine": 127,
+                    "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 9710,
+                    "startOffset": 15728,
                     "endColumn": 56,
-                    "endOffset": 9762
+                    "endOffset": 15780
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2398,11 +3196,11 @@
             },
             {
                 "to": {
-                    "startLine": 128,
+                    "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 9767,
+                    "startOffset": 15785,
                     "endColumn": 50,
-                    "endOffset": 9813
+                    "endOffset": 15831
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2417,11 +3215,11 @@
             },
             {
                 "to": {
-                    "startLine": 129,
+                    "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 9818,
+                    "startOffset": 15836,
                     "endColumn": 72,
-                    "endOffset": 9886
+                    "endOffset": 15904
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2436,11 +3234,11 @@
             },
             {
                 "to": {
-                    "startLine": 130,
+                    "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 9891,
+                    "startOffset": 15909,
                     "endColumn": 54,
-                    "endOffset": 9941
+                    "endOffset": 15959
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2455,11 +3253,11 @@
             },
             {
                 "to": {
-                    "startLine": 131,
+                    "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 9946,
+                    "startOffset": 15964,
                     "endColumn": 57,
-                    "endOffset": 9999
+                    "endOffset": 16017
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2474,11 +3272,11 @@
             },
             {
                 "to": {
-                    "startLine": 132,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 10004,
+                    "startOffset": 16022,
                     "endColumn": 100,
-                    "endOffset": 10100
+                    "endOffset": 16118
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sv\\values-sv.xml",
@@ -2493,11 +3291,11 @@
             },
             {
                 "to": {
-                    "startLine": 133,
+                    "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 10105,
+                    "startOffset": 16123,
                     "endColumn": 57,
-                    "endOffset": 10158
+                    "endOffset": 16176
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2512,11 +3310,11 @@
             },
             {
                 "to": {
-                    "startLine": 134,
+                    "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 10163,
+                    "startOffset": 16181,
                     "endColumn": 57,
-                    "endOffset": 10216
+                    "endOffset": 16234
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2531,11 +3329,30 @@
             },
             {
                 "to": {
-                    "startLine": 135,
+                    "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 10221,
+                    "startOffset": 16239,
+                    "endColumn": 103,
+                    "endOffset": 16338
+                },
+                "from": {
+                    "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-sv\\wallet_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 103,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 16343,
                     "endColumn": 63,
-                    "endOffset": 10280
+                    "endOffset": 16402
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2550,11 +3367,11 @@
             },
             {
                 "to": {
-                    "startLine": 136,
+                    "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 10285,
+                    "startOffset": 16407,
                     "endColumn": 79,
-                    "endOffset": 10360
+                    "endOffset": 16482
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2569,11 +3386,11 @@
             },
             {
                 "to": {
-                    "startLine": 137,
+                    "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 10365,
+                    "startOffset": 16487,
                     "endColumn": 51,
-                    "endOffset": 10412
+                    "endOffset": 16534
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2588,11 +3405,11 @@
             },
             {
                 "to": {
-                    "startLine": 138,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 10417,
+                    "startOffset": 16539,
                     "endColumn": 63,
-                    "endOffset": 10476
+                    "endOffset": 16598
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2607,11 +3424,11 @@
             },
             {
                 "to": {
-                    "startLine": 139,
+                    "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 10481,
+                    "startOffset": 16603,
                     "endColumn": 68,
-                    "endOffset": 10545
+                    "endOffset": 16667
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2626,11 +3443,11 @@
             },
             {
                 "to": {
-                    "startLine": 140,
+                    "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 10550,
+                    "startOffset": 16672,
                     "endColumn": 56,
-                    "endOffset": 10602
+                    "endOffset": 16724
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2645,11 +3462,11 @@
             },
             {
                 "to": {
-                    "startLine": 141,
+                    "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 10607,
+                    "startOffset": 16729,
                     "endColumn": 65,
-                    "endOffset": 10668
+                    "endOffset": 16790
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2664,11 +3481,11 @@
             },
             {
                 "to": {
-                    "startLine": 142,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 10673,
+                    "startOffset": 16795,
                     "endColumn": 68,
-                    "endOffset": 10737
+                    "endOffset": 16859
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2683,11 +3500,11 @@
             },
             {
                 "to": {
-                    "startLine": 143,
+                    "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 10742,
+                    "startOffset": 16864,
                     "endColumn": 47,
-                    "endOffset": 10785
+                    "endOffset": 16907
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",
@@ -2702,11 +3519,11 @@
             },
             {
                 "to": {
-                    "startLine": 144,
+                    "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 10790,
+                    "startOffset": 16912,
                     "endColumn": 68,
-                    "endOffset": 10854
+                    "endOffset": 16976
                 },
                 "from": {
                     "file": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\values-sv\\strings.xml",

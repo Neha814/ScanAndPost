@@ -1,0 +1,98 @@
+-injars 'D:\Studio_WorkSpace\ScanAndPost\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'D:\Studio_WorkSpace\ScanAndPost\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\android-sdk_r24.3.4-windows\android-sdk-windows\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'D:\Studio_WorkSpace\ScanAndPost\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.scanandpost.client.android.SplashScreen {
+    <init>();
+}
+
+-keep class com.scanandpost.client.android.PreferencesActivity {
+    <init>();
+}
+
+-keep class com.scanandpost.client.android.encode.EncodeActivity {
+    <init>();
+}
+
+-keep class com.scanandpost.client.android.book.SearchBookContentsActivity {
+    <init>();
+}
+
+-keep class com.scanandpost.client.android.share.ShareActivity {
+    <init>();
+}
+
+-keep class com.scanandpost.client.android.share.BookmarkPickerActivity {
+    <init>();
+}
+
+-keep class com.scanandpost.client.android.share.AppPickerActivity {
+    <init>();
+}
+
+-keep class com.scanandpost.client.android.HelpActivity {
+    <init>();
+}
+
+-keep class com.scanandpost.client.android.MainActivity {
+    <init>();
+}
+
+-keep class com.scanandpost.client.android.LoginScreen {
+    <init>();
+}
+
+-keep class com.scanandpost.client.android.CaptureActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

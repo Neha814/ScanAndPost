@@ -200,6 +200,10 @@
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
+        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps1.xml",
+        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\activity_maps1.xml"
+    },
+    {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
