@@ -31,7 +31,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aa7b5f2-c86a-4919-91cd-b682392de66b" name="Default" comment="" />
+    <list default="true" id="2aa7b5f2-c86a-4919-91cd-b682392de66b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ScanAndPost.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,8 +75,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5022523">
-              <caret line="183" column="88" selection-start-line="183" selection-start-column="88" selection-end-line="183" selection-end-column="88" />
+            <state vertical-scroll-proportion="0.6936937">
+              <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
               <folding>
                 <element signature="e#2904#2922#0" expanded="true" />
                 <element signature="e#5848#5874#0" expanded="true" />
@@ -83,6 +85,7 @@
                 <element signature="e#7393#7413#0" expanded="true" />
                 <element signature="e#8161#8191#0" expanded="true" />
                 <element signature="e#8501#8526#0" expanded="true" />
+                <element signature="e#10401#10426#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,6 +163,9 @@
         <option value="valueResourceFile" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -2146,7 +2152,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -2534,6 +2540,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2aa7b5f2-c86a-4919-91cd-b682392de66b" name="Default" comment="" />
@@ -2989,8 +2998,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5022523">
-          <caret line="183" column="88" selection-start-line="183" selection-start-column="88" selection-end-line="183" selection-end-column="88" />
+        <state vertical-scroll-proportion="0.6936937">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
           <folding>
             <element signature="e#2904#2922#0" expanded="true" />
             <element signature="e#5848#5874#0" expanded="true" />
@@ -2999,6 +3008,7 @@
             <element signature="e#7393#7413#0" expanded="true" />
             <element signature="e#8161#8191#0" expanded="true" />
             <element signature="e#8501#8526#0" expanded="true" />
+            <element signature="e#10401#10426#0" expanded="true" />
           </folding>
         </state>
       </provider>
