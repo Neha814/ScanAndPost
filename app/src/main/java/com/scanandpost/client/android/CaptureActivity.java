@@ -427,8 +427,8 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
         Calendar c = Calendar.getInstance();
         System.out.println("Current time => " + c.getTime());
 
-        SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy");
-        String formattedDate = df.format(c.getTime());
+       /* SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy");
+        String formattedDate = df.format(c.getTime());*/
 
         object.put("Barcode", contacts.get(i).getBarcode());
         object.put("DriverID", contacts.get(i).getDriverId());
@@ -685,7 +685,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
   private void putDataInDb(String symData) {
     Calendar c = Calendar.getInstance();
     System.out.println("Current time => " + c.getTime());
-    SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy");
+    SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");
     String formattedDate = df.format(c.getTime());
 
     db.addContact(new BarcodeData(symData, sp.getString("client_id", ""), formattedDate, "37"),TABLENAME);
