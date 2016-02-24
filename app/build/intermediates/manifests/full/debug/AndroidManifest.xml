@@ -256,13 +256,13 @@
             android:label="MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
-            android:windowSoftInputMode="adjustPan" />
+            android:windowSoftInputMode="adjustPan|stateHidden" />
         <activity
             android:name="com.scanandpost.client.android.LoginScreen"
             android:label="LoginScreen"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
-            android:windowSoftInputMode="adjustPan" />
+            android:windowSoftInputMode="adjustPan|stateHidden" />
         <activity
             android:name="com.scanandpost.client.android.CaptureActivity"
             android:clearTaskOnLaunch="true"

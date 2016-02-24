@@ -4,12 +4,12 @@
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_spinner_item_dropdown.xml",
-        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\menu_spinner_item_dropdown.xml"
-    },
-    {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_spinner_item_dropdown.xml",
+        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\menu_spinner_item_dropdown.xml"
     },
     {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
@@ -44,12 +44,12 @@
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents_header.xml",
-        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\search_book_contents_header.xml"
-    },
-    {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents_header.xml",
+        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\search_book_contents_header.xml"
     },
     {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -112,16 +112,16 @@
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\nav_btscanner.xml"
     },
     {
-        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
-        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\help.xml"
-    },
-    {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\help.xml"
     },
     {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
@@ -296,12 +296,12 @@
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents.xml",
-        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\search_book_contents.xml"
-    },
-    {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents.xml",
+        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\layout\\search_book_contents.xml"
     },
     {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",

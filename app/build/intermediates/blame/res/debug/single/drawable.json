@@ -228,16 +228,16 @@
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\drawable\\scan_logo.png"
     },
     {
-        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
-        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\drawable\\launcher_icon.png"
+        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_background.xml",
+        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\drawable\\settings_background.xml"
     },
     {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_background.xml",
-        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\drawable\\settings_background.xml"
+        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
+        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\drawable\\launcher_icon.png"
     },
     {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
@@ -300,12 +300,12 @@
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\drawable\\scan_two.png"
     },
     {
-        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopper_icon.png",
-        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\drawable\\shopper_icon.png"
-    },
-    {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopper_icon.png",
+        "source": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\src\\main\\res\\drawable\\shopper_icon.png"
     },
     {
         "merged": "D:\\Studio_WorkSpace\\ScanAndPost\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_click_effect.xml",
