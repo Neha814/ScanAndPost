@@ -4,14 +4,17 @@ import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
 
 import com.scanandpost.client.android.R;
+import com.scanandpost.client.functions.Constants;
 
 import java.util.ArrayList;
 
@@ -24,6 +27,7 @@ public class NavDeliverFragment extends Fragment implements View.OnClickListener
     View rootView;
     Spinner deliver_spinner;
     MyAdapter mAdapter;
+    String TAG = "NavDeliverFragment";
 
     @Nullable
     @Override
@@ -41,12 +45,47 @@ public class NavDeliverFragment extends Fragment implements View.OnClickListener
         menuItems.add("Delivered to customer");
         menuItems.add("Other");
         menuItems.add("Refused by customer");
-        menuItems.add("12 - partial Damaged");
-        menuItems.add("10 - Total Damage");
+        menuItems.add("Partial Damaged");
+        menuItems.add("Total Damage");
 
         mAdapter = new MyAdapter(getActivity(),
                 menuItems);
         deliver_spinner.setAdapter(mAdapter);
+
+        deliver_spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+
+                /*Deliver to customer :: 42
+                other :: 28
+                refussed by customer :: 5
+                partial damaged :: 44
+                total damage :: 43*/
+
+                if (position == 0) {
+                    Constants.ACTIVITY_ID = "42";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+
+                } else if (position == 1) {
+                    Constants.ACTIVITY_ID = "28";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+                } else if (position == 2) {
+                    Constants.ACTIVITY_ID = "5";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+                } else if (position == 3) {
+                    Constants.ACTIVITY_ID = "44";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+                }else if (position == 4) {
+                    Constants.ACTIVITY_ID = "43";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+                }
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+
+            }
+        });
     }
 
     @Override

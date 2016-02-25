@@ -10,6 +10,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.Button;
 import android.widget.LinearLayout;
@@ -42,6 +43,7 @@ public class NavLoadTruckFragment extends Fragment implements View.OnClickListen
     private static final int ZBAR_SCANNER_REQUEST = 0;
     String TABLE_NAME="loadtruck_table" ;
     List<BarcodeData> contacts = new ArrayList<BarcodeData>();
+    String TAG = "NavLoadTruckFragment";
 
     @Nullable
     @Override
@@ -107,14 +109,40 @@ public class NavLoadTruckFragment extends Fragment implements View.OnClickListen
         camerascan_btn.setOnClickListener(this);
 
         ArrayList<String> menuItems = new ArrayList<String>();
-        menuItems.add("Received");
-        menuItems.add("12 partial damaged");
-        menuItems.add("10 total damage");
-        menuItems.add("Empty tote scan");
+        menuItems.add("Loaded");
+        menuItems.add("Partial damaged");
+        menuItems.add("Total damage");
 
         mAdapter = new MyAdapter(getActivity(),
                 menuItems);
         load_spinner.setAdapter(mAdapter);
+
+        load_spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+
+                /*Loaded :: 39
+                Partial damaged :: 41
+                Total Damage :: 40*/
+
+                if (position == 0) {
+                    Constants.ACTIVITY_ID = "39";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+
+                } else if (position == 1) {
+                    Constants.ACTIVITY_ID = "41";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+                } else if (position == 2) {
+                    Constants.ACTIVITY_ID = "40";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+                }
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+
+            }
+        });
     }
 
     @Override

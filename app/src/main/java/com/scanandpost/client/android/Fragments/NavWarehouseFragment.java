@@ -10,6 +10,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.Button;
 import android.widget.LinearLayout;
@@ -44,6 +45,7 @@ public class NavWarehouseFragment extends Fragment implements View.OnClickListen
     View view;
     LinearLayout ll;
     String TABLE_NAME="warehouse_table" ;
+    String TAG = "NavWarehouseFragment";
 
 
     @Nullable
@@ -72,13 +74,44 @@ public class NavWarehouseFragment extends Fragment implements View.OnClickListen
 
         ArrayList<String> menuItems = new ArrayList<String>();
         menuItems.add("Received");
-        menuItems.add("12 partial damaged");
-        menuItems.add("10 total damage");
+        menuItems.add("Partial damaged");
+        menuItems.add("Total damage");
         menuItems.add("Empty tote scan");
 
         mAdapter = new MyAdapter(getActivity(),
                 menuItems);
         warehouse_spinner.setAdapter(mAdapter);
+
+        warehouse_spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+
+                /*Received ID:: 36
+                Partial Damaged :: 37
+                Total Damage :: 38
+                tote scan :: 45*/
+
+                if(position==0){
+                    Constants.ACTIVITY_ID = "36";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+
+                }else if(position==1){
+                    Constants.ACTIVITY_ID = "37";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+                } else if(position==2){
+                    Constants.ACTIVITY_ID = "38";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+                } else if(position==3){
+                    Constants.ACTIVITY_ID = "45";
+                    Log.e(TAG, "activity id=> " + Constants.ACTIVITY_ID);
+                }
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+
+            }
+        });
 
     }
 
@@ -263,5 +296,26 @@ public class NavWarehouseFragment extends Fragment implements View.OnClickListen
         }
 
     }*/
+
+    /*Warehouse Page
+
+    Received ID:: 36
+    Partial Damaged :: 37
+    Total Damage :: 38
+    tote scan :: 45
+
+    Load Page ::
+
+    Loaded :: 39
+    Partial damaged :: 41
+    Total Damage :: 40
+
+    Deliver page ::
+
+    Deliver to customer :: 42
+    other :: 28
+    refussed by customer :: 5
+    partial damaged :: 44
+    total damage :: 43*/
 
 }

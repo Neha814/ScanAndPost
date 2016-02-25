@@ -5,4 +5,5 @@ package com.scanandpost.client.functions;
  */
 public class Constants {
     public static String COMING_FROM="";
+    public static String ACTIVITY_ID = "";
 }

@@ -688,7 +688,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");
     String formattedDate = df.format(c.getTime());
 
-    db.addContact(new BarcodeData(symData, sp.getString("client_id", ""), formattedDate, "37"),TABLENAME);
+    db.addContact(new BarcodeData(symData, sp.getString("client_id", ""), formattedDate, Constants.ACTIVITY_ID),TABLENAME);
   }
 
   /**
