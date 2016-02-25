@@ -29,6 +29,7 @@ import org.json.JSONObject;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Locale;
@@ -260,6 +261,24 @@ public class NavSyncFragment extends Fragment implements View.OnClickListener {
 
     private void showRoutes() {
         int size = SyncRoutesList.size();
+        String route[] = new String[size];
+        String peices[] = new String[size];
+        int count = 0;
+        for(int i=0;i<size;i++){
+            if(i==0){
+                route[count] =  SyncRoutesList.get(i).get("Route");
+                peices[count] =  SyncRoutesList.get(i).get("loadnum");
+            }else {
+                if(!Arrays.asList(route).contains(SyncRoutesList.get(i).get("Route"))){
+                    count++;
+                    route[count] =  SyncRoutesList.get(i).get("Route");
+                } else {
+                    peices[count] = String.valueOf(Integer.parseInt(peices[count])+
+                            Integer.parseInt(SyncRoutesList.get(i).get("loadnum")));
+                }
+            }
+            Log.e(TAG,"routes==>"+route);
+        }
         for (int i=0;i<size;i++) {
 
             LayoutInflater inflater = null;
