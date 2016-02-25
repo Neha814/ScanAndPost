@@ -3,6 +3,7 @@ package com.scanandpost.client.android.Fragments;
 import android.app.DatePickerDialog;
 import android.app.ProgressDialog;
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
@@ -32,6 +33,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Calendar;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Locale;
 
 import cz.msebera.android.httpclient.Header;
@@ -65,6 +67,10 @@ public class NavSyncFragment extends Fragment implements View.OnClickListener {
     SharedPreferences sp;
 
     ArrayList<HashMap<String, String>> SyncRoutesList = new ArrayList<HashMap<String, String>>();
+
+    List<String> route = new ArrayList<String>();
+    List<Integer> peices = new ArrayList<Integer>();
+    List<String> stop = new ArrayList<String>();
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -261,24 +267,33 @@ public class NavSyncFragment extends Fragment implements View.OnClickListener {
 
     private void showRoutes() {
         int size = SyncRoutesList.size();
-        String route[] = new String[size];
-        String peices[] = new String[size];
-        int count = 0;
+
+        route.clear();
+        peices.clear();
+
         for(int i=0;i<size;i++){
             if(i==0){
-                route[count] =  SyncRoutesList.get(i).get("Route");
-                peices[count] =  SyncRoutesList.get(i).get("loadnum");
+                route.add(SyncRoutesList.get(i).get("Route"));
+                stop.add(SyncRoutesList.get(i).get("StopNum"));
+                peices.add(1);
+
             }else {
                 if(!Arrays.asList(route).contains(SyncRoutesList.get(i).get("Route"))){
-                    count++;
-                    route[count] =  SyncRoutesList.get(i).get("Route");
+
+                    route.add(SyncRoutesList.get(i).get("Route"));
+                    stop.add(SyncRoutesList.get(i).get("StopNum"));
+                    peices.add(1);
                 } else {
-                    peices[count] = String.valueOf(Integer.parseInt(peices[count])+
-                            Integer.parseInt(SyncRoutesList.get(i).get("loadnum")));
+                    int value = route.indexOf(SyncRoutesList.get(i).get("Route"));
+                    int new_value = peices.get(value)+ 1;
+                    peices.set(value, new_value);
                 }
+
             }
             Log.e(TAG,"routes==>"+route);
         }
+
+        int route_size = route.size();
         for (int i=0;i<size;i++) {
 
             LayoutInflater inflater = null;
@@ -289,9 +304,18 @@ public class NavSyncFragment extends Fragment implements View.OnClickListener {
             TextView stop_tv = (TextView) mLinearView.findViewById(R.id.stop_tv);
             TextView peices_tv = (TextView) mLinearView.findViewById(R.id.peices_tv);
 
-            route_tv.setText(SyncRoutesList.get(i).get("Route"));
+            /*route_tv.setText(SyncRoutesList.get(i).get("Route"));
             stop_tv.setText(SyncRoutesList.get(i).get("StopNum"));
-            peices_tv.setText(SyncRoutesList.get(i).get("loadnum"));
+            peices_tv.setText(SyncRoutesList.get(i).get("loadnum"));*/
+
+
+            Log.e(TAG,"route size=>"+route.size()+"  "+route);
+            Log.e(TAG,"stop size=>"+stop.size()+"  "+stop);
+            Log.e(TAG,"peices size=>"+peices.size()+"  "+peices);
+
+            route_tv.setText(route.get(i));
+            stop_tv.setText(stop.get(i));
+            peices_tv.setText(peices.get(i));
 
             listview.addView(mLinearView);
         }
